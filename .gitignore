@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# EEG datasets
+datasets/
+*.edf
+*.npz
+
+# IDE files
+.idea/
+
+# Python environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
